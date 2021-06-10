@@ -31,3 +31,6 @@ Instructions are included with each file indicating what needs to be created/upd
 1. References in this project assume that the Member ID in Luminate Online is the same as the Raiser's Edge System Record ID as is the case in the standard "RELO" integration.  If other integration/datasync options are employed, then Power Automate / API calls and some S-Tag usages may need to be adjusted accordingly. 
 
 2. All transactions in these scenarios are processed via Online Express with its corresponding methods of matching incoming transactions with the corresponding Constituent in Raiser's Edge. Methods of capturing the Luminate Online Member ID / Raiser's Edge System Record ID as a Gift Attribute are to allow for "double checking" but do not automatically match records. 
+
+## Included Power Automate Flow
+Included in this projected is a Power Automate Flow for the LOSKY-Directory.html .  This is a simple example of how one can use HTTP calls to Power Automate to facilitate working with SKY API. 
