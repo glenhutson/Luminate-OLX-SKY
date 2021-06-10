@@ -23,7 +23,7 @@ At a minimum you will need:
 * Creation / editing permissions of Lumiante Online PageBuilder Pages
 * Creation / editing permissions of Luminate Online Donation forms \(Optional, depending on scenario\)
 
-Most examples can be dropped into a standard PageBuilder Page and updated for your scenario.  The exception is the "LOLX-Pledge-Hybrid.html" which is added to an HTML Caption of a Donation Form.  
+Most examples can be dropped into a standard PageBuilder Page and updated for your scenario.  The exception is the "LOLX-Pledge-Hybrid.html" \(to be added\) which is added to an HTML Caption of a Donation Form.  
 
 Instructions are included with each file indicating what needs to be created/updated. 
 
