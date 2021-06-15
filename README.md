@@ -34,3 +34,6 @@ Instructions are included with each file indicating what needs to be created/upd
 
 ## Included Power Automate Flow
 Included in this projected is a Power Automate Flow for the LOSKY-Directory.html .  This is a simple example of how one can use HTTP calls to Power Automate to facilitate working with SKY API. 
+
+## Custom Connector
+In the LOLX-RENXTCustom directory is a custom RENXT connector that enables the sort field in List Gits and access to Membership information.  This is only to be used in the interim until the official connector is updated.  
