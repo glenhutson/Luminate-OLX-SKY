@@ -37,3 +37,6 @@ Included in this projected is a Power Automate Flow for the LOSKY-Directory.html
 
 ## Custom Connector
 In the LOLX-RENXTCustom directory is a custom RENXT connector that enables the sort field in List Gits and access to Membership information.  This is only to be used in the interim until the official connector is updated.  
+
+## LOLX-Membership-Simple
+This is a version of the LOLX Membership form that does not call upon Power Automate / SKY API for further personalization.  Relies on S-Tags for pre-fill in. 
