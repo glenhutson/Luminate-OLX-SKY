@@ -7,7 +7,7 @@ Surface key Luminate Online Data in Raiser's Edge NXT via SKY Add-in Tiles.
 This project is an example of how you can surface information from Luminate Online in Raiser's Edge NXT via SKY Add-ins and facilitated by Power Automate. 
 
 ## NOTE
-This version should be considered for testing/review as we await an update rom Microsoft that will allow us to include an extra level of validation. 
+This version should be considered for testing/review as we await an update from Microsoft that will allow us to include an extra level of validation. 
 
 ## Getting Started
 
